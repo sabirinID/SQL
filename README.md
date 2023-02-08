@@ -1,7 +1,7 @@
 # SQL
 Structured Query Language (SQL)
 
-SQL adalah singkatan dari Structured Query Language, yang merupakan bahasa standar untuk mengakses dan memanipulasi database. Ini merupakan bahasa pemrograman yang digunakan untuk bekerja dengan database relasional seperti MySQL, PostgreSQL, Oracle, Microsoft SQL Server, dan lainnya.
+SQL adalah singkatan dari Structured Query Language, yang merupakan bahasa standar untuk mengakses dan memanipulasi database. Ini merupakan bahasa pemrograman yang digunakan pada database relasional seperti MySQL, PostgreSQL, Oracle, Microsoft SQL Server, dan lainnya.
 
 SQL memiliki beberapa jenis:
 1. Data Definition Language (DDL) - Berfungsi untuk membuat, mengubah, dan menghapus tabel, view, dan objek lain dalam database.
